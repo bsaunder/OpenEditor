@@ -1,0 +1,25 @@
+body         { font-family: Verdana; font-size: 9pt; background-color: #C8C8C9; }
+a            { color: #273A47;}
+table        { border-collapse: collapse; border-spacing: 0pt; font-size: 9pt; }
+img 		 { border: 0px none; }
+td		     { vertical-align: top; }
+p            { margin-top: 0; margin-bottom: 0; }
+pre			 { font-family: Courier; font-size: 9pt; }
+ul			 { word-spacing: 0; margin-top: 0; margin-bottom: 0; }
+.content     { font-family: Verdana; font-size: 9pt;}
+.code		 { font-family: Courier; font-size: 9pt; }
+.copyright   { font-size: 8pt; }
+.policies    { font-size: 8pt; }
+.smalltext	 { font-size: 8pt; }
+.tinytext	 { font-size: 7pt; }
+.sectionname { font-weight: bold; }
+.mainbg      { background-image: url('images/bg.jpg'); }
+.valid		 { border-color: #000000; }
+.news_subject{ font-weight: bold; }
+.news_date	 { font-size: 8pt; }
+.news_poster { font-size: 8pt; text-align: right; }
+.smallnote	 { font-size: 8pt; color: #FF0000; }
+.errormesg	 { font-size: 12pt; color: #FF0000; font-weight: bold; }
+.warning	 { color: #FF0000; font-weight: bold; }
+.tiny_warning{ font-size: 7pt; color: #FF0000; }
+.form_elem   {BACKGROUND-COLOR: #dddddd; BORDER-BOTTOM: #ffffff 1px inset; BORDER-LEFT: #ffffff 1px inset; BORDER-RIGHT: #ffffff 1px inset; BORDER-TOP: #ffffff 1px inset; COLOR: #000000; FONT-FAMILY: Arial; FONT-SIZE: 9pt; }
